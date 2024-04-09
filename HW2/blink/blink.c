@@ -3,7 +3,6 @@
  *
  * SPDX-License-Identifier: BSD-3-Clause
  */
-
 #include "pico/stdlib.h"
 
 int main() {
